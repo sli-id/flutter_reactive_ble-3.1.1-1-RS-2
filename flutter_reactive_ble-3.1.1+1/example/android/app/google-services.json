@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "544683013383",
+    "project_id": "reactivebletest",
+    "storage_bucket": "reactivebletest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544683013383:android:1a6f7a25944338597581a2",
+        "android_client_info": {
+          "package_name": "com.signify.hue.reactivebleexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544683013383-ita12takmdij7kqt78hhof198i2qk3h8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp7vOUAJM6M-n9ZaXM2GPRrIZyYsXWNTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544683013383-ita12takmdij7kqt78hhof198i2qk3h8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
